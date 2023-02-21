@@ -11,8 +11,6 @@
     
 ***
 
-![CQRS diagram](https://user-images.githubusercontent.com/28671510/85227195-957af480-b3e4-11ea-9898-8dfa42c84117.png)
-
 ## Automatically generated users
 | Username        	| Password 	| Role          	|
 |-----------------	|----------	|---------------	|
